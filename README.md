@@ -9,3 +9,6 @@
 请参考的[@囧大大王](https://space.bilibili.com/10442962)的Bilibili。
 
 网页控制端可访问 [https://iot-menjin.witgine.com/](https://iot-menjin.witgine.com/)。
+
+## 编译说明
+本项目使用PlatformIO+Clion进行开发，需要使用PlatformIO进行编译与依赖安装。
